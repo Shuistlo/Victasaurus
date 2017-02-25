@@ -1,4 +1,1 @@
-# Victasaurus....lets see if this works
-#edit
-#plswork
-aowegnoawgnawb
+#this is a readme
